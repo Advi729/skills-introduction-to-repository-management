@@ -6,7 +6,7 @@ new features, this guide will help you get started. 🎉
 
 ## Development Setup
 
-1. Clone the repository to your computer.
+1. Clone the repository to your computer!   
 2. Install Python requirements: `pip install -r requirements.txt`.
 3. Run the development server: `python src/app.py`.
 4. Visit http://localhost:8000 in your browser to see the website.
