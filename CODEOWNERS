@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Advi729
+/src/backend/database.py      @Advi729
+/src/backend/routers/auth.py  @Advi729
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Advi729
